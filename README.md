@@ -30,6 +30,9 @@ The main logic is divided into 3 functions:
 - mQgas() – Monitors gas levels and triggers LED indicators
 
 ## 🖼 Screenshots
+![Hardware setup](https://github.com/user-attachments/assets/2da2fb66-9afd-4188-9ac0-526453aef251)
+![turns on light and rotats motor opening door after detecting motion](https://github.com/user-attachments/assets/6f5cd1a4-50dc-44c6-8e0b-4898f6c3df77)
+![turns on red light after gas detection](https://github.com/user-attachments/assets/353876ce-e8b5-4e62-8ae8-fe436c86c116)
 
 
 
