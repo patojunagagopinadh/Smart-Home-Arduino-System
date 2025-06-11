@@ -29,6 +29,10 @@ The main logic is divided into 3 functions:
 - pir() – Controls servo based on movement
 - mQgas() – Monitors gas levels and triggers LED indicators
 
+##   Block Diagram
+
+![WhatsApp Image 2025-06-11 at 13 03 00_7c0b076a](https://github.com/user-attachments/assets/4468f893-6014-465b-a4fb-6146df66a2a7)
+
 ## 🖼 Screenshots
 ![Hardware setup](https://github.com/user-attachments/assets/2da2fb66-9afd-4188-9ac0-526453aef251)
 
